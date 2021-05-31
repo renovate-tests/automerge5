@@ -1,3 +1,4 @@
 {
-  "extends": [":automergeMinor", ":dependencyDashboard", "schedule:weekly"]
+  "extends": [":automergeMinor"],
+  "recreateClosed": true
 }
