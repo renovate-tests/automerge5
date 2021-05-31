@@ -1,4 +1,4 @@
 {
-  "extends": [":automergeMinor"],
+  "extends": [":dependencyDashboard"],
   "recreateClosed": true
 }
